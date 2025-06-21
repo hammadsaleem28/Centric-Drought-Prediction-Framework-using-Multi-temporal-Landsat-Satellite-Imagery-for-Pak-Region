@@ -170,8 +170,8 @@ drive.mount('/content/drive')
 - **3D CNN Architecture**: Tran et al. (2015)
 - **Vision Transformers**: Dosovitskiy et al. (2020)
 
-### 👨‍💻 Author Information
-- **Name**: Muhammad Talha, Hammad Saleem, Ali Hussain, Hammad Tariq
+### 👨‍💻 Authors Information
+- **Names**: Muhammad Talha, Hammad Saleem, Ali Hussain, Hammad Tariq
 - **Project**: Computer Vision-Centric Drought Prediction
 - **Implementation**: Pure CV Methodology
 - **Target Region**: Pakistan (Central/South Asia)
