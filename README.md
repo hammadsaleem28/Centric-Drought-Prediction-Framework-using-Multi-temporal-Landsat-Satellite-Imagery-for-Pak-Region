@@ -171,7 +171,7 @@ drive.mount('/content/drive')
 - **Vision Transformers**: Dosovitskiy et al. (2020)
 
 ### 👨‍💻 Author Information
-- **Name**: Talha
+- **Name**: Muhammad Talha, Hammad Saleem, Ali Hussain, Hammad Tariq
 - **Project**: Computer Vision-Centric Drought Prediction
 - **Implementation**: Pure CV Methodology
 - **Target Region**: Pakistan (Central/South Asia)
