@@ -1,0 +1,1 @@
+# Centric-Drought-Prediction-Framework-using-Multi-temporal-Landsat-Satellite-Imagery-for-Pak-Region
