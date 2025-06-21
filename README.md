@@ -11,7 +11,7 @@ This project implements a **Computer Vision-centric drought prediction system** 
 4. **3D CNN + Vision Transformer**: Spatial-temporal drought prediction architecture
 5. **Pixel-wise Classification**: District-level resolution drought risk mapping
    
-###Satellite Image Dataset link:
+### Satellite Image Dataset link:
    https://drive.google.com/drive/folders/1GY4ALBzC18bjFFOD5E02fo_r6J-GPBHy?usp=sharing
 
 ### 📊 CV-Specific Dataset
